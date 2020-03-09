@@ -15,6 +15,7 @@ public class SciCalculator {
             // While Switch variable does not equal 0, the program will loop.
         while (z != 0) {
             if (z >= 1 && z <=6) {
+                System.out.println("Ranch it up!!!")
                 System.out.println("Calculator Menu");
                 System.out.println("---------------");
                 System.out.println("0. Exit Program");
